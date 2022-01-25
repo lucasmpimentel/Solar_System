@@ -1,9 +1,15 @@
 import React from 'react';
+import Header from './components/Header';
+import SolarSystem from './components/SolarSystem';
 
 class App extends React.Component {
   render() {
-    // init
-    return (<p>Sistema Solar</p>);
+    return (
+      <main>
+        <Header />
+        <SolarSystem />
+      </main>
+    );
   }
 }
 
