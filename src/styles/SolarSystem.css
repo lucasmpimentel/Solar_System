@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap') ;
+
+.solar-system-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.solar-system-class {
+  display: flex;
+  flex-direction: column;
+}
+
+.mission-cards-wrap {
+  align-self: center;
+
+  /* border: solid 3px aqua; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 80%;
+}
+
+h2 {
+  align-self: center;
+  color: whitesmoke;
+  display: flex;
+  font-family: Play , sans-serif;
+  font-size: 38pt;
+  font-weight: 400;
+  margin-bottom: 5px;
+  margin-top: 30px;
+}

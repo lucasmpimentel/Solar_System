@@ -1,0 +1,22 @@
+.missions-card-wrap {
+  background-color: rgba(0, 0, 0, 0.8);
+  border: solid 1px whitesmoke;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  justify-content: space-between;
+  margin: 15px;
+  padding: 10px;
+  width: 200px;
+}
+
+.mission-name {
+  font-size: 14pt;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.mission-content {
+  margin: 2px;
+}

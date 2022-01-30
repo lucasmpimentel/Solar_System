@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap') ;
+
+h1 {
+  background-image: linear-gradient(black, black, black, black, transparent);
+  color: white;
+  font-family: Yellowtail , cursive;
+  font-size: 55pt;
+  font-weight: 200;
+  letter-spacing: 0;
+  margin: 0;
+  text-align: center;
+}
